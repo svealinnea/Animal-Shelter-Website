@@ -40,6 +40,10 @@ p {
 body{
   background-color:#FAE8E0;
   text-align: center;
-  padding: 0 20px 20px 20px;
-  border: 3px solid gray;
+  border: gray;
+  margin-left: auto;
+}
+.title {
+  font-style: Bold;
+  color: teal
 }
