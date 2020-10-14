@@ -1,0 +1,39 @@
+.intro {
+  color: #97d8cf;
+  font-style: italic;
+}
+img {
+  float: center;
+  width: fit-content;
+}
+.sidebar {
+  width: 20%;
+  float: right;
+  background-color: salmon;
+}
+
+h2 {
+  color:#FF69B4;
+  font-style: oblique;
+}
+.my-class {
+  border: 2px turquoise;
+  padding: 10px;
+  background-color:#FFFDD0;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  box-sizing: border-box;
+  box-shadow: teal;
+}
+.List-Title {
+  color: turquoise;
+  font-size: larger;
+}
+p {
+  font-style: Bold;
+  font-family: sans-serif;
+}
+.column {
+  width: 300px;
+  float: left;
+}
